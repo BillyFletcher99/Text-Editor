@@ -45,11 +45,6 @@ This screenshot is of content that has been retrieved from IndexedDB in the text
 
 
 
-
-
-After cloning the repository and installing the necessary dependencies, run npm start to use on a local server 3000.
-
-
 ### Built-With
 
   * IndexedDB
