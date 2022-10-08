@@ -36,6 +36,10 @@ after install, app comes up, and you can see it running sucessfully in the bar b
 
 ![after install](https://user-images.githubusercontent.com/105595889/194716585-e0f9b32f-952e-4cb0-a4ee-69c12c0986cc.png)
 
+This screenshot is of content that has been retrieved from IndexedDB in the text editor
+
+![last screenshot](https://user-images.githubusercontent.com/105595889/194729955-ef62cae6-aeaf-4a82-b1ca-7afab2ff7e0e.png)
+
 
 
 
