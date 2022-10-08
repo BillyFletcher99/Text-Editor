@@ -32,6 +32,10 @@ screenshot of text-editor JATE
 
 ![screenshot of JATE](https://user-images.githubusercontent.com/105595889/194715275-4aa7d106-0df6-42ba-9a09-4eaf8cf457f4.png)
 
+after install, app comes up, and you can see it running sucessfully in the bar below as well (last to the right) 
+
+![after install](https://user-images.githubusercontent.com/105595889/194716585-e0f9b32f-952e-4cb0-a4ee-69c12c0986cc.png)
+
 
 
 
