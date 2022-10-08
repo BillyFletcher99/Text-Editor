@@ -6,12 +6,11 @@ Users can create notes or code snippets with or without an internet connection a
 
 ## Table of Contents
 
-- [Installation](#Installation)
 - [Usage](#Usage)
 - [Built With](#Built-With)
 - [Demonstrations](#Demonstrations)
 
-## Installation
+## Demonstrations
 
 It will be necessary to install Node.js and various npm packages in order to run this application. All of which can be found in the "Built-with" section.
 A package.json file contains the required modules, which are then installed via the CLI or integrated terminal by typing npm run install.
@@ -41,6 +40,8 @@ This screenshot is of content that has been retrieved from IndexedDB in the text
 ![last screenshot](https://user-images.githubusercontent.com/105595889/194729955-ef62cae6-aeaf-4a82-b1ca-7afab2ff7e0e.png)
 
 
+![Another screenshot](https://user-images.githubusercontent.com/105595889/194730086-964d1fb5-01bf-4e0b-848a-81a9c5bda5f2.png)
+
 
 
 
@@ -51,15 +52,11 @@ After cloning the repository and installing the necessary dependencies, run npm 
 
 ### Built-With
 
-  * express
+  * IndexedDB
   * webpack
-  * webpack-dev-server
-  * WebpackPwaManifest
   * Babel
+  * WebpackPwaManifest
+  * webpack-dev-server
   * CSS-loader
   * Concurrently
-  * IndexedDB
-
-
-### Demonstrations
-
+  * express
