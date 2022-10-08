@@ -17,7 +17,10 @@ It will be necessary to install Node.js and various npm packages in order to run
 A package.json file contains the required modules, which are then installed via the CLI or integrated terminal by typing npm run install.
 
 ### Usage
+
 Below is a screenshot of the folder layout
+
+
 ![screenshot of client-server](https://user-images.githubusercontent.com/105595889/194714709-f4d82b5c-a9f5-4e11-a51b-29fda45065ba.png)
 
 
