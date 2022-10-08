@@ -21,6 +21,10 @@ Below is a screenshot of the folder layout
 ![screenshot of client-server](https://user-images.githubusercontent.com/105595889/194714709-f4d82b5c-a9f5-4e11-a51b-29fda45065ba.png)
 
 
+
+
+
+
 After cloning the repository and installing the necessary dependencies, run npm start to use on a local server 3000.
 
 
