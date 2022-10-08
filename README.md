@@ -13,7 +13,8 @@ Users can create notes or code snippets with or without an internet connection a
 
 ## Installation
 
-Install the required dependencies by running 'npm i' on the cloned application, then launch the application using "npm start".
+It will be necessary to install Node.js and various npm packages in order to run this application. All of which can be found in the "Built-with" section.
+A package.json file contains the required modules, which are then installed via the CLI or integrated terminal by typing npm run install.
 
 ### Usage
 
