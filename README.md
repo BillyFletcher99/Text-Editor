@@ -24,6 +24,11 @@ Below is a screenshot of the folder layout
 ![screenshot of client-server](https://user-images.githubusercontent.com/105595889/194714709-f4d82b5c-a9f5-4e11-a51b-29fda45065ba.png)
 
 
+Screenshot of "NPM run start"
+
+![snippet of run start](https://user-images.githubusercontent.com/105595889/194714775-effa277c-6d61-475c-8aa7-5f8473d0a511.png)
+
+
 
 
 
