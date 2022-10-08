@@ -28,6 +28,11 @@ Screenshot of "NPM run start"
 
 ![snippet of run start](https://user-images.githubusercontent.com/105595889/194714775-effa277c-6d61-475c-8aa7-5f8473d0a511.png)
 
+screenshot of text-editor JATE
+
+![screenshot of JATE](https://user-images.githubusercontent.com/105595889/194715275-4aa7d106-0df6-42ba-9a09-4eaf8cf457f4.png)
+
+
 
 
 
