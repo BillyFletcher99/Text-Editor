@@ -2,7 +2,7 @@
 
 ## Summary
 
-MongoDB is used in this application to store large amounts of unstructured data, Express.js provides routing, and Mongoose ODM provides data management
+Users can create notes or code snippets with or without an internet connection and then retrieve them reliably for later use in this web text editor. Through the integrated service worker and cache API, the application remains fully functional even when no internet connection is available. Offline access to visited pages is possible even with this application.
 
 ## Table of Contents
 
@@ -21,12 +21,14 @@ After cloning the repository and installing the necessary dependencies, run npm 
 
 ### Built-With
 
-
-    Node JS
-    NoSQL - MongoDB
-    Mongoose
-    Express
-    JavaScript
+  * express
+  * webpack
+  * webpack-dev-server
+  * WebpackPwaManifest
+  * Babel
+  * CSS-loader
+  * Concurrently
+  * IndexedDB
 
 
 ### Demonstrations
